@@ -1,0 +1,12 @@
+C:\Users\Home\Google Диск\VS\GitHub\InternationalSystemOfUnits\InternationalSystemOfUnits\bin\Debug\InternationalSystemOfUnits.exe.config
+C:\Users\Home\Google Диск\VS\GitHub\InternationalSystemOfUnits\InternationalSystemOfUnits\bin\Debug\InternationalSystemOfUnits.exe
+C:\Users\Home\Google Диск\VS\GitHub\InternationalSystemOfUnits\InternationalSystemOfUnits\bin\Debug\InternationalSystemOfUnits.pdb
+C:\Users\Home\Google Диск\VS\GitHub\InternationalSystemOfUnits\InternationalSystemOfUnits\obj\Debug\InternationalSystemOfUnits.csprojResolveAssemblyReference.cache
+C:\Users\Home\Google Диск\VS\GitHub\InternationalSystemOfUnits\InternationalSystemOfUnits\obj\Debug\InternationalSystemOfUnits.exe
+C:\Users\Home\Google Диск\VS\GitHub\InternationalSystemOfUnits\InternationalSystemOfUnits\obj\Debug\InternationalSystemOfUnits.pdb
+C:\Users\user\Google Диск\VS\GitHub\InternationalSystemOfUnits\InternationalSystemOfUnits\bin\Debug\InternationalSystemOfUnits.exe.config
+C:\Users\user\Google Диск\VS\GitHub\InternationalSystemOfUnits\InternationalSystemOfUnits\obj\Debug\InternationalSystemOfUnits.exe
+C:\Users\user\Google Диск\VS\GitHub\InternationalSystemOfUnits\InternationalSystemOfUnits\obj\Debug\InternationalSystemOfUnits.pdb
+C:\Users\user\Google Диск\VS\GitHub\InternationalSystemOfUnits\InternationalSystemOfUnits\obj\Debug\InternationalSystemOfUnits.csprojResolveAssemblyReference.cache
+C:\Users\user\Google Диск\VS\GitHub\InternationalSystemOfUnits\InternationalSystemOfUnits\bin\Debug\InternationalSystemOfUnits.exe
+C:\Users\user\Google Диск\VS\GitHub\InternationalSystemOfUnits\InternationalSystemOfUnits\bin\Debug\InternationalSystemOfUnits.pdb
