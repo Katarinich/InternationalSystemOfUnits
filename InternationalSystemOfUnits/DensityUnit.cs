@@ -2,7 +2,7 @@
 
 namespace InternationalSystemOfUnits
 {
-    abstract class DensityUnit : MeasurementUnit
+    public abstract class DensityUnit : MeasurementUnit
     {
         public static DensityUnit operator +(DensityUnit left, DensityUnit right)
         {

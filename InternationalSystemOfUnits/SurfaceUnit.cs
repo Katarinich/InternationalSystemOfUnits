@@ -2,7 +2,7 @@
 
 namespace InternationalSystemOfUnits
 {
-    abstract class SurfaceUnit : MeasurementUnit
+    public abstract class SurfaceUnit : MeasurementUnit
     {
         public static SurfaceUnit operator +(SurfaceUnit left, SurfaceUnit right)
         {

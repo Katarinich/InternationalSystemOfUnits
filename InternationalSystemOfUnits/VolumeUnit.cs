@@ -1,6 +1,6 @@
 ﻿namespace InternationalSystemOfUnits
 {
-    abstract class VolumeUnit : MeasurementUnit
+    public abstract class VolumeUnit : MeasurementUnit
     {
         public static VolumeUnit operator +(VolumeUnit left, VolumeUnit right)
         {

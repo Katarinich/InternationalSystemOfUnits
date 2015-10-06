@@ -2,7 +2,7 @@
 
 namespace InternationalSystemOfUnits
 {
-    abstract class PressureUnit : MeasurementUnit
+    public abstract class PressureUnit : MeasurementUnit
     {
         public static PressureUnit operator +(PressureUnit left, PressureUnit right)
         {

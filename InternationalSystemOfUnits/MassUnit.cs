@@ -1,9 +1,10 @@
 ﻿using InternationalSystemOfUnits.DensityUnits;
+using InternationalSystemOfUnits.ForceUnits;
 using InternationalSystemOfUnits.VolumeUnits;
 
 namespace InternationalSystemOfUnits
 {
-    abstract class MassUnit : MeasurementUnit
+    public abstract class MassUnit : MeasurementUnit
     {
         public static MassUnit operator +(MassUnit left, MassUnit right)
         {
@@ -23,6 +24,11 @@ namespace InternationalSystemOfUnits
         public static VolumeUnit  operator /(MassUnit left, DensityUnit  right)
         {
             return new Meter3(left.ConvertToBase().Value / right.Value);
+        }
+
+        public static ForceUnit operator *(MassUnit left, AccelerationUnit right)
+        {
+            return new Newton(left.ConvertToBase().Value * right.Value);
         }
 
         protected abstract MassUnit __DoSubstraction(MassUnit right);
